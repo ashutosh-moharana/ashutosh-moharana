@@ -8,7 +8,6 @@
 ### 👨‍💻 About Me
 
 - 🧠 Learning full-stack development (MERN)
-- 🔨 Currently building: **DevConnect** – a developer social platform
 - 🎯 Focused on writing clean, scalable code
 - 📬 Reach me at: [LinkedIn](https://linkedin.com/in/ashutosh-moharana)
 
@@ -21,20 +20,16 @@
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 ---
 
 ### 📌 Pinned Projects
 
-- 🗨️ [Real-Time Chat App](https://github.com/ashutosh-moharana/realtime-chat)  
-  Live chat using Socket.io, React, and Express
 
 - 🧑‍💻 [DevConnect](https://github.com/ashutosh-moharana/devconnect)  
   A developer social media platform using the MERN stack
 
-- 📦 [Mini APIs Collection](https://github.com/ashutosh-moharana/mini-apis)  
-  Collection of mini REST APIs with Express + MongoDB
+
 
 ---
 
