@@ -7,7 +7,8 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Learning full-stack development (MERN)
+- 🧠 Beginner Full-stack developer (MERN)
+- 😎 Currently focussing on JAVA & DSA
 - 🎯 Focused on writing clean, scalable code
 - 📬 Reach me at: [LinkedIn](https://linkedin.com/in/ashutosh-moharana)
 
@@ -26,8 +27,11 @@
 ### 📌 Pinned Projects
 
 
-- 🧑‍💻 [DevConnect](https://github.com/ashutosh-moharana/devconnect)  
-  A developer social media platform using the MERN stack
+- 🧑‍💻 [PetVivid](https://petvivid-client.onrender.com/)  
+  A website to reunite lost & found pets
+  
+- 🧑‍💻 [Minimal Ecommerce](https://minimal-ecommerce.onrender.com/)  
+  A website to reunite lost & found pets
 
 
 
@@ -47,8 +51,13 @@
 <a href="https://linkedin.com/in/ashutosh-moharana" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:ashutoshmoharana00@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+<a href="https://ashutoshmoharana.vercel.com">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white">
+</a>
 
----
+
+
+--
