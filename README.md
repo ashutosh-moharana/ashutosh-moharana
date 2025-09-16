@@ -7,9 +7,8 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Beginner Full-stack developer (MERN)
-- 😎 Currently focussing on JAVA & DSA
-- 🎯 Focused on writing clean, scalable code
+- MERN stack developer
+- Currently focussing on JAVA & DSA
 - 📬 Reach me at: [LinkedIn](https://linkedin.com/in/ashutosh-moharana)
 
 ---
