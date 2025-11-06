@@ -116,7 +116,8 @@ Portfolio — A personal site showcasing my projects and skills.
 
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=ashutosh-moharana&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github" />
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com?user=ashutosh-moharana&theme=blue-green&hide_border=true" />
+ <img height="140" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-moharana&theme=react-dark&hide_border=true" />
+
 </p>
 
 ---
