@@ -1,109 +1,94 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7928ca,50:4c7cf5,100:2afadf&text=Hey,%20I'm%20Ashutosh!&fontColor=ffffff&fontSize=60&stroke=000000&fontAlignY=40&animation=twinkling&strokeWidth=1&section=header&reversal=true)
 
->>>> ## *Nice to see you ...* 🤗
----
+>> ## *Nice to see you ...* 🤗
 
-<div align="center"
-     style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap-reverse; gap: 20px; text-align: center;">
 
-  <!-- Text Section (left side) -->
-  <div style="flex: 1; min-width: 250px; margin-top:20px">
-    <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=40&duration=800&pause=5000&color=1E90FF&width=550&lines=MERN+Stack+Developer"
-         alt="MERN Stack Developer"
-         style="max-width: 100%; height: auto;"><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=30&duration=800&pause=3000&color=1E90FF&width=420&lines=Learning+DSA+in+Java"
-         alt="Learning DSA in Java"
-         style="max-width: 100%; height: auto;"><br>
+<table align="center">
+  <tr>
+        <td align="center" style="vertical-align: middle; padding: 5px;">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+           alt="Developer GIF"
+           width="200"
+           style="border-radius:4px;">
+    </td>
+    <!-- Text Section -->
+    <td align="center" style="vertical-align: middle; padding: 10px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=40&duration=800&pause=5000&color=1E90FF&width=550&lines=MERN+Stack+Developer" 
+           alt="MERN Stack Developer"><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=30&duration=500&pause=3000&color=1E90FF&width=420&lines=Learning+DSA+in+Java" 
+           alt="Learning DSA in Java">
+    </td>
+
    
-  </div>
+   
+  </tr>
+</table>
 
-  <!-- GIF Section (right side) -->
-  <div style="flex: 1; min-width: 200px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YndpcTlhdG96YTVmMWRiZmxreDBzMHJyNXlzZ2hpZmhiZ284MHdrcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif"
-         alt="Developer GIF"
-         style="width: 100%; max-width: 150px; height: auto; border-radius: 2px;">
-  </div>
-
-</div>
-
----
-
->>>> ## *Currently Working On ...*
+>> ## *Currently Working On ...*
 <p align="center">
   <em><b>Building full-stack applications with MERN </b> | <b>Mastering Data Structures & Algorithms in Java</b> | <b>Open to collaborations!</b></em>
 </p>
 
 ---
->>>> ##  *Things I code with ...* 
----
+>> ##  *Things I code with ...* 
 
-<div style="display:flex; flex-wrap:wrap; justify-content:evenly; gap:10px; align-items:center;">
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/><br/>
+      <sub>Express</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45"/><br/>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/><br/>
+      <sub>TailwindCSS</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45"/><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45"/><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/><br/>
+      <sub>CSS</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/><br/>
+      <sub>HTML</sub>
+    </td>
+  </tr>
+</table>
 
-  <div style="text-align:center;">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">React</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">Node.js</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">Express</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">MySQL</p>
-  </div>
-  
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">MongoDB</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">TailwindCSS</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">Java</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">Git</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">GitHub</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">CSS</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">JavaScript</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
-    <p style="font-size:10px;font-weight:300;">HTML</p>
-  </div>
-
-</div>
 
 ---------
 
->>>> ##  *Stuffs that I built...*
+>>##  *Stuffs that I built...*
 <p align="center">
   <a href="https://github.com/ashutosh-moharana/minimal-ecommerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-moharana&repo=minimal-ecommerce&theme=highcontrast&hide_border=true" width="330" />
@@ -127,8 +112,7 @@ Portfolio — A personal site showcasing my projects and skills.
 
 
 
->>>> ##  *My Stats ...* 
----
+>> ##  *My Stats ...*
 
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=ashutosh-moharana&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github" />
@@ -138,10 +122,20 @@ Portfolio — A personal site showcasing my projects and skills.
 ---
 ---
 
+<table align="center">
+  <tr>
+    <td align="center" style="vertical-align: middle; padding-right: 10px;">
+      <img src="https://media.giphy.com/media/2HnegrqbSw8mS0wcoQ/giphy.gif"
+           width="50"
+           style="border-radius:50%;"
+           alt="Wave GIF">
+    </td>
+    <td align="center" style="vertical-align: middle;">
+      <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! 💖</b></em>
+    </td>
+  </tr>
+</table>
 
-<div style="display:flex;justify-content:center; align-items:center; text-align:center; gap:10px" >
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI4cGxrdnFwYmo5YmVrdXAxNWZ0MjZrNTlhdjI5czFzenBxM21zbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2HnegrqbSw8mS0wcoQ/giphy.gif" width="50" style="border-radius:50%"><p><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! 💖</b></em></p>
-  </div>
 
 <p align="center" style="margin-top:20px">
   <a href="mailto:ashutoshmoharana00@gmail.com">
