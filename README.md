@@ -8,19 +8,14 @@
         <td align="center" style="vertical-align: middle; padding: 5px;">
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
            alt="Developer GIF"
-           width="200"
-           style="border-radius:4px;">
+           style="border-radius:4px; max-width:110px; width:100%; height:auto;">
     </td>
-    <!-- Text Section -->
     <td align="center" style="vertical-align: middle; padding: 10px;">
       <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=40&duration=800&pause=5000&color=1E90FF&width=550&lines=MERN+Stack+Developer" 
            alt="MERN Stack Developer"><br>
       <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=30&duration=500&pause=3000&color=1E90FF&width=420&lines=Learning+DSA+in+Java" 
            alt="Learning DSA in Java">
     </td>
-
-   
-   
   </tr>
 </table>
 
