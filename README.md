@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7928ca,50:ff4d4d,100:2afadf&text=Hey,%20I'm%20Ashutosh!&fontColor=ffffff&fontSize=60&stroke=000000&fontAlignY=40&animation=twinkling&strokeWidth=1&section=header&reversal=true)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:334155,50:10b981,100:22d3ee&text=Hey,%20I'm%20Ashutosh!&fontColor=ffffff&fontSize=60&stroke=000000&fontAlignY=40&animation=twinkling&strokeWidth=1&section=header&reversal=true)
 
 >> ## *Nice to see you ...* 🤗
 
@@ -10,10 +10,10 @@
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
              alt="Developer GIF"
              width="120"
-             style="border-radius: 16px; box-shadow: 0 4px 15px rgba(121, 40, 202, 0.3);">
+             style="border-radius: 16px; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);">
       </td>
       <td align="center" style="vertical-align: middle; padding: 10px 15px; border: none;">
-<img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=500&size=30&letterSpacing=10%25&duration=1500&pause=2000&color=CD000FF6&center=true&vCenter=true&width=350&height=40&lines=Backend+Developer;Spring++Boot+%7C+Java;REST+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=500&size=30&letterSpacing=10%25&duration=1500&pause=2000&color=22D3EE&center=true&vCenter=true&width=350&height=40&lines=Backend+Developer;Spring++Boot+%7C+Java;REST+APIs" alt="Typing SVG" />
       </td>
     </tr>
   </table>
@@ -73,19 +73,15 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Fylex** | Spring Boot file sharing — room‑based, auto‑expiry | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashutosh-moharana/fylex) |
-| **PepalBarry** | Live e‑commerce — payments, auth, scalable backend | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashutosh-moharana/pepalbarry) [![Live](https://img.shields.io/badge/Live-2AFADF?style=flat&logo=google-chrome&logoColor=black)](https://pepalbarry.shop)  |
-| **PetVivid** | Lost & found pets API — JWT, secure uploads | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashutosh-moharana/petvivid-client) [![Live](https://img.shields.io/badge/Live-2AFADF?style=flat&logo=google-chrome&logoColor=black)](https://petvivid-client.onrender.com)  |
+| **Fylex** | Spring Boot file sharing — room‑based, auto‑expiry | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashutosh-moharana/fylex) [![Live](https://img.shields.io/badge/Live-22D3EE?style=flat&logo=google-chrome&logoColor=black)](https://fylex.onrender.com/swagger-ui/index.html) |
+| **PepalBarry** | Live e‑commerce — payments, auth, scalable backend | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashutosh-moharana/pepalbarry) [![Live](https://img.shields.io/badge/Live-22D3EE?style=flat&logo=google-chrome&logoColor=black)](https://pepalbarry.shop)  |
+| **PetVivid** | Lost & found pets API — JWT, secure uploads | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashutosh-moharana/petvivid-client) [![Live](https://img.shields.io/badge/Live-22D3EE?style=flat&logo=google-chrome&logoColor=black)](https://petvivid-client.onrender.com)  |
 
 ---
 
 >> ## *Activity & Contribution*
 
-<div align="center">
-  <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-moharana&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=ff4d4d&line=7928ca&point=2afadf" />
-</div>
 
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutosh-moharana/ashutosh-moharana/output/github-contribution-grid-snake-dark.svg" />
@@ -121,4 +117,4 @@
   </a>
 </p>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7928ca,50:ff4d4d,100:2afadf&fontAlignY=30&section=footer&reversal=false)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:334155,50:10b981,100:22d3ee&fontAlignY=30&section=footer&reversal=false)
